@@ -9,7 +9,7 @@ All code was created using python and Google Colab notebooks.
 Please note that GPUs provided by Google Colab were used to run all code
 
 The dataset was of Real human faces and fake StyleGAN-generated faces.
-Link to the dataset:
+Link to the dataset: https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces
 ---------------------------------------------------------------------------------------
 The code base contains the following files:
 
@@ -27,6 +27,8 @@ VGG Unit Norm.ipynb --> Attempt to perform VGG16 classification with Unit Normal
 Data_FFT.ipynb --> Observations on a real and a fake image with FFT.
 
 Metrics_Tests.ipynb --> code used to calculate the metrics for the models from "VGG Layer Norm and Inter-layer Batch Borm.ipynb", "Xception_Real_vs_Fake.ipynb", "VGG Unit Norm.ipynb"
+
+
 ---------------------------------------------------------------------------------------
 Below are the pretrained model files:
 
